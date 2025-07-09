@@ -1,3 +1,5 @@
 Este es el login
 
 *Se arreglo el bug en dispositivos tablets
+
+*Se arreglo bug ocurrido en producción*
