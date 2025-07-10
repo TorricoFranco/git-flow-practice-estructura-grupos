@@ -1,3 +1,7 @@
 Este es el menu
 
 *Se arreglo bug ocurrido en la branch develop*
+
+*Se arreglo bug con responsive ocurrido en producción*
+
+*Se Modifico el color del menu*
